@@ -1,4 +1,4 @@
-# minitalk
+# 42-minitalk
 
 O projeto *minitalk* da Escola 42 tem como objetivo implementar um sistema de comunicação entre dois processos utilizando sinais Unix. O desafio consiste em enviar e receber mensagens entre processos por meio de sinais `SIGUSR1` e `SIGUSR2`.
 
